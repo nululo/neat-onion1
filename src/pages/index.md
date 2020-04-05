@@ -2,10 +2,10 @@
 title: Home
 sidebar:
   entries:
-    - title: Welcome
+    - title: Hola
       url: '#intro'
       is_primary: true
-    - title: Who we are
+    - title: 'Esto es lo que hacemos '
       url: '#one'
       is_primary: false
     - title: What we do
