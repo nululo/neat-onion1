@@ -1,7 +1,6 @@
 landing_style: style1-alt
 alt_style: alt
-copyright: '&copy; Hyperspace. All rights reserved.'
+copyright: 2020 Madrid demo site. Todos los derechos reservados
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Hecho con la última tecnología web
